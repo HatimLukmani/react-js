@@ -1,0 +1,72 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+#root {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.navbar {
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align flex items to start from left */
+  justify-content: stretch; /* Stretch to occupy the full height */
+  height: 100vh; /* Occupy full height of the grid row */
+}
+
+.navbar button {
+  background-color: #333333;
+  color: #e6e6e6;
+  height: 50px;
+  width: 100px;
+  margin-bottom: 25px;
+}
+
+.navbar ul {
+  padding: 0;
+}
+
+.navbar ul li {
+  background-color: #333333;
+  height: 30px;
+  width: 100px;
+  color: #ffffff;
+  margin-bottom: 10px;
+  list-style: none;
+  text-align: center;
+  cursor: pointer;
+}
+.navbar ul li:active {
+  background-color: white;
+  color: black;
+}
+.no-selected {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.no-selected img {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.element-flexer {
+  display: flex;
+  gap: 20px;
+}
+form label {
+  height: 50px;
+  width: 50px;
+}

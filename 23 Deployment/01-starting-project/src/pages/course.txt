@@ -1,0 +1,16 @@
+001 Demo-Application.url
+001 Module Introduction.mp4
+001 Module Introduction_en.srt
+002 Deployment Steps.mp4
+002 Deployment Steps_en.srt
+003 Understanding Lazy Loading.mp4
+003 Understanding Lazy Loading_en.srt
+004 Adding Lazy Loading.mp4
+004 Adding Lazy Loading_en.srt
+005 Building the Code For Production.mp4
+005 Building the Code For Production_en.srt
+006 Deployment Example.mp4
+006 Deployment Example_en.srt
+007 Server-side Routing _ Required Configuration.mp4
+007 Server-side Routing _ Required Configuration_en.srt
+external-links.txt

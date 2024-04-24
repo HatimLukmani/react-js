@@ -1,0 +1,30 @@
+001 Module Introduction.mp4
+001 Module Introduction_en.srt
+002 How Authentication Works.mp4
+002 How Authentication Works_en.srt
+002 Starting-Project.url
+003 Project Setup _ Route Setup.mp4
+003 Project Setup _ Route Setup_en.srt
+004 Working with Query Parameters.mp4
+004 Working with Query Parameters_en.srt
+005 Implementing the Auth Action.mp4
+005 Implementing the Auth Action_en.srt
+006 Validating User Input _ Outputting Validation Errors.mp4
+006 Validating User Input _ Outputting Validation Errors_en.srt
+007 Adding User Login.mp4
+007 Adding User Login_en.srt
+008 Attaching Auth Tokens to Outgoing Requests.mp4
+008 Attaching Auth Tokens to Outgoing Requests_en.srt
+009 Adding User Logout.mp4
+009 Adding User Logout_en.srt
+010 Updating the UI Based on Auth Status.mp4
+010 Updating the UI Based on Auth Status_en.srt
+011 Important loader()s must return null or any other value.html
+012 Adding Route Protection.mp4
+012 Adding Route Protection_en.srt
+013 Adding Automatic Logout.mp4
+013 Adding Automatic Logout_en.srt
+013 Updated-auth.js.url
+014 Managing the Token Expiration.mp4
+014 Managing the Token Expiration_en.srt
+015 Module Resources.html
